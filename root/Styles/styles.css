@@ -1,0 +1,39 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh; 
+  background-color: tan; 
+}
+
+h1 {
+    font-size: 60px;
+	color: black;
+	text-align: center;
+	font-family: 'Metal Mania', cursive, sans-serif;
+}
+
+.monster-image {
+	display: flex;
+	flex-direction: row;
+	gap: 15px;
+	justify-content: center;
+	align-items: center;
+}
+
+.hint-area {
+    font-family: 'Metal Mania', cursive, sans-serif;
+	display: flex;
+	flex-direction: row;
+	gap: 15px;
+	justify-content: center;
+	align-items: center;
+}
+
+.input {
+	display: flex;
+	flex-direction: row;
+	gap: 15px;
+	justify-content: center;
+	align-items: center;
+}
