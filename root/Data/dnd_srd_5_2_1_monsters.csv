@@ -1,0 +1,323 @@
+﻿name,size,type,alignment,armor_class,hit_points,challenge_rating,damage_vulnerabilities,damage_resistances,damage_immunities,condition_immunities,languages,source,attribution
+Aboleth,Large,aberration,,17,135,10,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Acolyte,Medium,humanoid,,10,9,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Adult Black Dragon,Huge,dragon,,19,195,14,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Adult Blue Dragon,Huge,dragon,,19,225,16,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Adult Brass Dragon,Huge,dragon,,18,172,13,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Adult Bronze Dragon,Huge,dragon,,19,212,15,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Adult Copper Dragon,Huge,dragon,,18,184,14,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Adult Gold Dragon,Huge,dragon,,19,256,17,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Adult Green Dragon,Huge,dragon,,19,207,15,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Adult Red Dragon,Huge,dragon,,19,256,17,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Adult Silver Dragon,Huge,dragon,,19,243,16,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Adult White Dragon,Huge,dragon,,18,200,13,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Air Elemental,Large,elemental,,15,90,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ancient Black Dragon,Gargantuan,dragon,,22,367,21,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ancient Blue Dragon,Gargantuan,dragon,,22,481,23,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ancient Brass Dragon,Gargantuan,dragon,,20,297,20,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ancient Bronze Dragon,Gargantuan,dragon,,22,444,22,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ancient Copper Dragon,Gargantuan,dragon,,21,350,21,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ancient Gold Dragon,Gargantuan,dragon,,22,546,24,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ancient Green Dragon,Gargantuan,dragon,,21,385,22,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ancient Red Dragon,Gargantuan,dragon,,22,546,24,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ancient Silver Dragon,Gargantuan,dragon,,22,487,23,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ancient White Dragon,Gargantuan,dragon,,20,333,20,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Androsphinx,Large,monstrosity,,17,199,17,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Animated Armor,Medium,construct,,18,33,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ankheg,Large,monstrosity,,14,39,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ape,Medium,beast,,12,19,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Archmage,Medium,humanoid,,12,99,12,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Assassin,Medium,humanoid,,15,78,8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Awakened Shrub,Small,plant,,9,10,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Awakened Tree,Huge,plant,,13,59,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Axe Beak,Large,beast,,11,19,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Azer,Medium,elemental,,17,39,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Baboon,Small,beast,,12,3,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Badger,Tiny,beast,,10,3,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Balor,Huge,fiend,,19,262,19,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Bandit,Medium,humanoid,,12,11,1/8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Bandit Captain,Medium,humanoid,,15,65,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Barbed Devil,Medium,fiend,,15,110,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Basilisk,Medium,monstrosity,,12,52,3,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Bat,Tiny,beast,,12,1,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Bearded Devil,Medium,fiend,,13,52,3,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Behir,Huge,monstrosity,,17,168,11,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Berserker,Medium,humanoid,,13,67,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Black Bear,Medium,beast,,11,19,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Black Dragon Wyrmling,Medium,dragon,,17,33,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Black Pudding,Large,ooze,,7,85,4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Blink Dog,Medium,fey,,13,22,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Blood Hawk,Small,beast,,12,7,1/8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Blue Dragon Wyrmling,Medium,dragon,,17,52,3,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Boar,Medium,beast,,11,11,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Bone Devil,Large,fiend,,19,142,9,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Brass Dragon Wyrmling,Medium,dragon,,16,16,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Bronze Dragon Wyrmling,Medium,dragon,,17,32,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Brown Bear,Large,beast,,11,34,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Bugbear,Medium,humanoid,,16,27,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Bulette,Large,monstrosity,,17,94,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Camel,Large,beast,,9,15,1/8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Cat,Tiny,beast,,12,2,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Centaur,Large,monstrosity,,12,45,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Chain Devil,Medium,fiend,,16,85,11,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Chimera,Large,monstrosity,,14,114,6,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Chuul,Large,aberration,,16,93,4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Clay Golem,Large,construct,,14,133,9,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Cloaker,Large,aberration,,14,78,8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Cloud Giant,Huge,giant,,14,200,9,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Cockatrice,Small,monstrosity,,11,27,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Commoner,Medium,humanoid,,10,4,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Constrictor Snake,Large,beast,,12,13,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Copper Dragon Wyrmling,Medium,dragon,,16,22,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Couatl,Medium,celestial,,19,97,4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Crab,Tiny,beast,,11,2,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Crocodile,Large,beast,,12,19,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Cult Fanatic,Medium,humanoid,,13,22,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Cultist,Medium,humanoid,,12,9,1/8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Darkmantle,Small,monstrosity,,11,22,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Death Dog,Medium,monstrosity,,12,39,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Deep Gnome (Svirfneblin),Small,humanoid,,15,16,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Deer,Medium,beast,,13,4,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Deva,Medium,celestial,,17,136,10,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Dire Wolf,Large,beast,,14,37,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Djinni,Large,elemental,,17,161,11,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Doppelganger,Medium,monstrosity,,14,52,3,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Draft Horse,Large,beast,,10,19,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Dragon Turtle,Gargantuan,dragon,,20,341,17,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Dretch,Small,fiend,,11,18,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Drider,Large,monstrosity,,19,123,6,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Drow,Medium,humanoid,,15,13,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Druid,Medium,humanoid,,11,27,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Dryad,Medium,fey,,11,22,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Duergar,Medium,humanoid,,16,26,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Dust Mephit,Small,elemental,,12,17,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Eagle,Small,beast,,12,3,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Earth Elemental,Large,elemental,,17,126,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Efreeti,Large,elemental,,17,200,11,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Elephant,Huge,beast,,12,76,4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Elk,Large,beast,,10,13,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Erinyes,Medium,fiend,,18,153,12,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ettercap,Medium,monstrosity,,13,44,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ettin,Large,giant,,12,85,4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Fire Elemental,Large,elemental,,13,102,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Fire Giant,Huge,giant,,18,162,9,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Flesh Golem,Medium,construct,,9,93,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Flying Snake,Tiny,beast,,14,5,1/8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Flying Sword,Small,construct,,17,17,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Frog,Tiny,beast,,11,1,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Frost Giant,Huge,giant,,15,138,8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Gargoyle,Medium,elemental,,15,52,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Gelatinous Cube,Large,ooze,,6,84,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ghast,Medium,undead,,13,36,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ghost,Medium,undead,,11,45,4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ghoul,Medium,undead,,12,22,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Ape,Huge,beast,,12,157,7,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Badger,Medium,beast,,10,13,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Bat,Large,beast,,13,22,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Boar,Large,beast,,12,42,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Centipede,Small,beast,,13,4,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Constrictor Snake,Huge,beast,,12,60,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Crab,Medium,beast,,15,13,1/8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Crocodile,Huge,beast,,14,85,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Eagle,Large,beast,,13,26,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Elk,Huge,beast,,15,42,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Fire Beetle,Small,beast,,13,4,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Frog,Medium,beast,,11,18,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Goat,Large,beast,,11,19,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Hyena,Large,beast,,12,45,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Lizard,Large,beast,,12,19,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Octopus,Large,beast,,11,52,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Owl,Large,beast,,12,19,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Poisonous Snake,Medium,beast,,14,11,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Rat,Small,beast,,12,7,1/8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Rat (Diseased),Small,beast,,12,7,1/8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Scorpion,Large,beast,,15,52,3,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Sea Horse,Large,beast,,13,16,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Shark,Huge,beast,,13,126,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Spider,Large,beast,,14,26,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Toad,Large,beast,,11,39,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Vulture,Large,beast,,10,22,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Wasp,Medium,beast,,12,13,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Weasel,Medium,beast,,13,9,1/8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Giant Wolf Spider,Medium,beast,,13,11,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Gibbering Mouther,Medium,aberration,,9,67,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Glabrezu,Large,fiend,,17,157,9,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Gladiator,Medium,humanoid,,16,112,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Gnoll,Medium,humanoid,,15,22,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Goat,Medium,beast,,10,4,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Goblin,Small,humanoid,,15,7,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Gold Dragon Wyrmling,Medium,dragon,,17,60,3,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Gorgon,Large,monstrosity,,19,114,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Gray Ooze,Medium,ooze,,8,22,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Green Dragon Wyrmling,Medium,dragon,,17,38,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Green Hag,Medium,fey,,17,82,3,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Grick,Medium,monstrosity,,14,27,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Griffon,Large,monstrosity,,12,59,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Grimlock,Medium,humanoid,,11,11,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Guard,Medium,humanoid,,16,11,1/8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Guardian Naga,Large,monstrosity,,18,127,10,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Gynosphinx,Large,monstrosity,,17,136,11,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Half-Red Dragon Veteran,Medium,humanoid,,18,65,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Harpy,Medium,monstrosity,,11,38,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Hawk,Tiny,beast,,13,1,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Hell Hound,Medium,fiend,,15,45,3,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Hezrou,Large,fiend,,16,136,8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Hill Giant,Huge,giant,,13,105,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Hippogriff,Large,monstrosity,,11,19,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Hobgoblin,Medium,humanoid,,18,11,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Homunculus,Tiny,construct,,13,5,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Horned Devil,Large,fiend,,18,178,11,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Hunter Shark,Large,beast,,12,45,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Hydra,Huge,monstrosity,,15,172,8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Hyena,Medium,beast,,11,5,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ice Devil,Large,fiend,,18,180,14,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ice Mephit,Small,elemental,,11,21,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Imp,Tiny,fiend,,13,10,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Invisible Stalker,Medium,elemental,,14,104,6,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Iron Golem,Large,construct,,20,210,16,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Jackal,Small,beast,,12,3,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Killer Whale,Huge,beast,,12,90,3,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Knight,Medium,humanoid,,18,52,3,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Kobold,Small,humanoid,,12,5,1/8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Kraken,Gargantuan,monstrosity,,18,472,23,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Lamia,Large,monstrosity,,13,97,4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Lemure,Medium,fiend,,7,13,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Lich,Medium,undead,,17,135,21,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Lion,Large,beast,,12,26,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Lizard,Tiny,beast,,10,2,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Lizardfolk,Medium,humanoid,,15,22,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Mage,Medium,humanoid,,12,40,6,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Magma Mephit,Small,elemental,,11,22,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Magmin,Small,elemental,,14,9,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Mammoth,Huge,beast,,13,126,6,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Manticore,Large,monstrosity,,14,68,3,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Marilith,Large,fiend,,18,189,16,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Mastiff,Medium,beast,,12,5,1/8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Medusa,Medium,monstrosity,,15,127,6,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Merfolk,Medium,humanoid,,11,11,1/8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Merrow,Large,monstrosity,,13,45,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Mimic,Medium,monstrosity,,12,58,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Minotaur,Large,monstrosity,,14,76,3,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Minotaur Skeleton,Large,undead,,12,67,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Mule,Medium,beast,,10,11,1/8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Mummy,Medium,undead,,11,58,3,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Mummy Lord,Medium,undead,,17,97,15,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Nalfeshnee,Large,fiend,,18,184,13,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Night Hag,Medium,fiend,,17,112,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Nightmare,Large,fiend,,13,68,3,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Noble,Medium,humanoid,,15,9,1/8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ochre Jelly,Large,ooze,,8,45,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Octopus,Small,beast,,12,3,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ogre,Large,giant,,11,59,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Ogre Zombie,Large,undead,,8,85,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Oni,Large,giant,,16,110,7,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Orc,Medium,humanoid,,13,15,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Otyugh,Large,aberration,,14,114,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Owl,Tiny,beast,,11,1,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Owlbear,Large,monstrosity,,13,59,3,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Panther,Medium,beast,,12,13,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Pegasus,Large,celestial,,12,59,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Phase Spider,Large,monstrosity,,13,32,3,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Pit Fiend,Large,fiend,,19,300,20,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Planetar,Large,celestial,,19,200,16,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Plesiosaurus,Large,beast,,13,68,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Poisonous Snake,Tiny,beast,,13,2,1/8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Polar Bear,Large,beast,,12,42,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Pony,Medium,beast,,10,11,1/8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Priest,Medium,humanoid,,13,27,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Pseudodragon,Tiny,dragon,,13,7,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Purple Worm,Gargantuan,monstrosity,,18,247,15,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Quasit,Tiny,fiend,,13,7,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Quipper,Tiny,beast,,13,1,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Rakshasa,Medium,fiend,,16,110,13,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Rat,Tiny,beast,,10,1,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Raven,Tiny,beast,,12,1,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Red Dragon Wyrmling,Medium,dragon,,17,75,4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Reef Shark,Medium,beast,,12,22,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Remorhaz,Huge,monstrosity,,17,195,11,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Rhinoceros,Large,beast,,11,45,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Riding Horse,Large,beast,,10,13,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Roc,Gargantuan,monstrosity,,15,248,11,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Roper,Large,monstrosity,,20,93,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Rug of Smothering,Large,construct,,12,33,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Rust Monster,Medium,monstrosity,,14,27,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Saber-Toothed Tiger,Large,beast,,12,52,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Sahuagin,Medium,humanoid,,12,22,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Salamander,Large,elemental,,15,90,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Satyr,Medium,fey,,14,31,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Scorpion,Tiny,beast,,11,1,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Scout,Medium,humanoid,,13,16,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Sea Hag,Medium,fey,,14,52,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Sea Horse,Tiny,beast,,11,1,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Shadow,Medium,undead,,12,16,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Shambling Mound,Large,plant,,15,136,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Shield Guardian,Large,construct,,17,142,7,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Shrieker,Medium,plant,,5,13,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Silver Dragon Wyrmling,Medium,dragon,,17,45,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Skeleton,Medium,undead,,13,13,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Solar,Large,celestial,,21,243,21,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Specter,Medium,undead,,12,22,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Spider,Tiny,beast,,12,1,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Spirit Naga,Large,monstrosity,,15,75,8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Sprite,Tiny,fey,,15,2,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Spy,Medium,humanoid,,12,27,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Steam Mephit,Small,elemental,,10,21,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Stirge,Tiny,beast,,14,2,1/8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Stone Giant,Huge,giant,,17,126,7,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Stone Golem,Large,construct,,17,178,10,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Storm Giant,Huge,giant,,16,230,13,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Succubus/Incubus,Medium,fiend,,15,66,4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Swarm of Bats,Medium,beast,,12,22,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Swarm of Beetles,Medium,beast,,12,22,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Swarm of Centipedes,Medium,beast,,12,22,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Swarm of Insects,Medium,beast,,12,22,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Swarm of Poisonous Snakes,Medium,beast,,14,36,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Swarm of Quippers,Medium,beast,,13,28,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Swarm of Rats,Medium,beast,,10,24,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Swarm of Ravens,Medium,beast,,12,24,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Swarm of Spiders,Medium,beast,,12,22,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Swarm of Wasps,Medium,beast,,12,22,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Tarrasque,Gargantuan,monstrosity,,25,676,30,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Thug,Medium,humanoid,,11,32,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Tiger,Large,beast,,12,37,1,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Treant,Huge,plant,,16,138,9,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Tribal Warrior,Medium,humanoid,,12,11,1/8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Triceratops,Huge,beast,,13,95,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Troll,Large,giant,,15,84,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Tyrannosaurus Rex,Huge,beast,,13,136,8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Unicorn,Large,celestial,,12,67,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Vampire,Medium,undead,,16,144,13,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Vampire Spawn,Medium,undead,,15,82,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Veteran,Medium,humanoid,,17,58,3,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Violet Fungus,Medium,plant,,5,18,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Vrock,Large,fiend,,15,104,6,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Vulture,Medium,beast,,10,5,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Warhorse,Large,beast,,11,19,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Warhorse Skeleton,Large,undead,,13,22,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Water Elemental,Large,elemental,,14,114,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Weasel,Tiny,beast,,13,1,0,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Werebear,Medium,humanoid,,10,135,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Wereboar,Medium,humanoid,,10,78,4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Wererat,Medium,humanoid,,12,33,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Weretiger,Medium,humanoid,,12,120,4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Werewolf,Medium,humanoid,,11,58,3,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+White Dragon Wyrmling,Medium,dragon,,16,32,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Wight,Medium,undead,,14,45,3,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Will-o'-Wisp,Tiny,undead,,19,22,2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Winter Wolf,Large,monstrosity,,13,75,3,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Wolf,Medium,beast,,13,11,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Worg,Large,monstrosity,,13,26,1/2,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Wraith,Medium,undead,,13,67,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Wyvern,Large,dragon,,13,110,6,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Xorn,Medium,elemental,,19,73,5,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Young Black Dragon,Large,dragon,,18,127,7,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Young Blue Dragon,Large,dragon,,18,152,9,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Young Brass Dragon,Large,dragon,,17,110,6,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Young Bronze Dragon,Large,dragon,,18,142,8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Young Copper Dragon,Large,dragon,,17,119,7,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Young Gold Dragon,Large,dragon,,18,178,10,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Young Green Dragon,Large,dragon,,18,136,8,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Young Red Dragon,Large,dragon,,18,178,10,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Young Silver Dragon,Large,dragon,,18,168,9,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Young White Dragon,Large,dragon,,17,133,6,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
+Zombie,Medium,undead,,8,22,1/4,,,,,,srd-5.2.1,SRD 5.2.1 / CC-BY 4.0
