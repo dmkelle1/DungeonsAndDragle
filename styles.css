@@ -1,39 +1,339 @@
+/* ===== Dungeons and Dragle ===== */
+:root {
+  --parchment: tan;
+  --parchment-light: #e3cfa3;
+  --ink: #2b1a10;
+  --ink-soft: #5a4330;
+  --blood: #7a1f1f;
+  --blood-dark: #561414;
+  --correct: #3f7a3a;
+  --close: #c79a1f;
+  --wrong: #9b2c2c;
+  --card: rgba(255, 246, 222, 0.55);
+  --radius: 10px;
+  --font-title: 'Metal Mania', 'Cinzel', Georgia, serif;
+  --font-label: 'Cinzel', Georgia, serif;
+  --font-body: 'Alegreya', Georgia, 'Times New Roman', serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
 html, body {
   margin: 0;
   padding: 0;
   width: 100%;
-  min-height: 100vh; 
-  background-color: tan; 
+  min-height: 100vh;
+  background-color: var(--parchment);
 }
+
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-body);
+  font-size: 1.15rem;
+  line-height: 1.5;
+  color: var(--ink);
+  background-image: radial-gradient(ellipse at center, rgba(255,255,255,0.18) 0%, rgba(0,0,0,0.12) 100%);
+  background-attachment: fixed;
+}
+
+a { color: var(--blood); }
+a:hover { color: var(--blood-dark); }
+
+.sr-only {
+  position: absolute; width: 1px; height: 1px; overflow: hidden;
+  clip: rect(0 0 0 0); white-space: nowrap;
+}
+
+/* ===== Header / nav ===== */
+.site-header {
+  padding: 18px 16px 0;
+  border-bottom: 3px double var(--ink);
+  background: linear-gradient(rgba(0,0,0,0.10), rgba(0,0,0,0));
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.logo { width: 64px; height: 64px; flex: none; }
 
 h1 {
-    font-size: 60px;
-	color: black;
-	text-align: center;
-	font-family: 'Metal Mania', cursive, sans-serif;
+  font-family: var(--font-title);
+  font-weight: 400;
+  font-size: clamp(2.2rem, 7vw, 3.75rem);
+  line-height: 1.1;
+  color: black;
+  text-align: center;
+  margin: 0;
+  text-shadow: 2px 2px 0 rgba(255,255,255,0.25);
 }
+
+h2 {
+  font-family: var(--font-label);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--ink);
+  margin: 0 0 0.4em;
+}
+
+.site-nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin: 14px 0 0;
+  padding: 0;
+}
+
+.site-nav a {
+  display: block;
+  padding: 8px 20px;
+  font-family: var(--font-label);
+  font-weight: 700;
+  text-decoration: none;
+  color: var(--ink);
+  border: 2px solid var(--ink);
+  border-bottom: none;
+  border-radius: var(--radius) var(--radius) 0 0;
+  background: var(--parchment-light);
+}
+
+.site-nav a:hover { background: #f1e2bd; }
+
+.site-nav a[aria-current="page"] {
+  background: var(--blood);
+  color: #f6e8c4;
+}
+
+/* ===== Page layout ===== */
+.game-area, .page-content {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px 16px 40px;
+  flex: 1;
+}
+
+.page-content { max-width: 780px; display: flex; flex-direction: column; gap: 28px; padding-top: 32px; }
+
+.card {
+  background: var(--card);
+  border: 2px solid var(--ink);
+  border-radius: var(--radius);
+  padding: 20px 24px;
+  box-shadow: 3px 3px 0 rgba(43,26,16,0.35);
+}
+.card p:last-child, .card ul:last-child, .card ol:last-child { margin-bottom: 0; }
+
+.member { display: flex; gap: 22px; align-items: flex-start; }
+.avatar {
+  flex: none; width: 96px; height: 96px; border-radius: 50%;
+  display: grid; place-items: center;
+  font-family: var(--font-title); font-size: 2rem; color: #f6e8c4;
+  background: var(--blood); border: 3px solid var(--ink);
+}
+.member-body { flex: 1; min-width: 0; }
+.member-body p { margin: 0 0 0.6em; }
+.role { font-family: var(--font-label); font-size: 0.9rem; color: var(--ink-soft); }
+
+.clues dt { font-family: var(--font-label); font-weight: 700; margin-top: 0.9em; }
+.clues dd { margin: 0.1em 0 0 0; }
+
+kbd {
+  font-family: var(--font-label); font-size: 0.85em; padding: 1px 7px;
+  border: 1px solid var(--ink); border-radius: 4px; background: var(--parchment-light);
+}
+
+.pill {
+  display: inline-block; padding: 0 9px; border-radius: 6px; color: #fff;
+  font-weight: 700; font-size: 0.95em;
+}
+.pill.correct { background: var(--correct); }
+.pill.close   { background: var(--close); color: #2b1a10; }
+.pill.wrong   { background: var(--wrong); }
+
+.site-footer {
+  padding: 14px 16px;
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  border-top: 3px double var(--ink);
+}
+.site-footer p { max-width: 760px; margin: 0 auto; }
+
+/* ===== Game: portrait ===== */
+.tagline { text-align: center; margin: 0 0 14px; font-style: italic; color: var(--ink-soft); }
 
 .monster-image {
-	display: flex;
-	flex-direction: row;
-	gap: 15px;
-	justify-content: center;
-	align-items: center;
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
-.hint-area {
-    font-family: 'Metal Mania', cursive, sans-serif;
-	display: flex;
-	flex-direction: row;
-	gap: 15px;
-	justify-content: center;
-	align-items: center;
+.portrait {
+  position: relative;
+  width: 240px; height: 240px;
+  border: 4px solid var(--ink);
+  border-radius: var(--radius);
+  background: #2b1a10;
+  overflow: hidden;
+  box-shadow: 4px 4px 0 rgba(43,26,16,0.4), inset 0 0 30px rgba(0,0,0,0.6);
 }
+.portrait img {
+  width: 100%; height: 100%; object-fit: cover; display: block;
+  transition: filter 0.6s ease;
+}
+.portrait-placeholder {
+  position: absolute; inset: 0;
+  display: grid; place-items: center;
+  font-family: var(--font-title); font-size: 7rem; color: #f6e8c4;
+  background: radial-gradient(circle at 50% 40%, #6d4a2e, #2b1a10 75%);
+  transition: opacity 0.6s;
+}
+.portrait-placeholder.revealed { font-size: 1.6rem; text-align: center; padding: 16px; line-height: 1.2; }
+.portrait-placeholder small { display: block; font-family: var(--font-body); font-size: 1rem; margin-top: 8px; opacity: 0.8; }
 
+.portrait-side { display: flex; flex-direction: column; gap: 10px; align-items: flex-start; }
+.guess-counter { margin: 0; font-family: var(--font-label); font-size: 1.3rem; }
+.portrait-note { margin: 0; max-width: 260px; font-size: 0.95rem; color: var(--ink-soft); }
+
+/* ===== Game: input ===== */
 .input {
-	display: flex;
-	flex-direction: row;
-	gap: 15px;
-	justify-content: center;
-	align-items: center;
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 24px;
+}
+#guess-form { display: flex; gap: 12px; width: 100%; max-width: 560px; }
+.combo { position: relative; flex: 1; }
+
+#guess-input {
+  width: 100%;
+  padding: 11px 14px;
+  font: inherit;
+  color: var(--ink);
+  background: #fff7e0;
+  border: 2px solid var(--ink);
+  border-radius: var(--radius);
+}
+#guess-input:focus { outline: 3px solid rgba(122,31,31,0.45); outline-offset: 1px; }
+#guess-input:disabled { opacity: 0.55; }
+#guess-input.shake { animation: shake 0.35s; }
+
+#suggestions {
+  position: absolute; z-index: 20; left: 0; right: 0; top: calc(100% + 4px);
+  margin: 0; padding: 4px 0; list-style: none;
+  max-height: 280px; overflow-y: auto;
+  background: #fff7e0; border: 2px solid var(--ink); border-radius: var(--radius);
+  box-shadow: 4px 4px 0 rgba(43,26,16,0.35);
+}
+#suggestions li { padding: 7px 14px; cursor: pointer; display: flex; justify-content: space-between; gap: 12px; }
+#suggestions li .sub { font-size: 0.85rem; color: var(--ink-soft); }
+#suggestions li[aria-selected="true"], #suggestions li:hover { background: var(--blood); color: #f6e8c4; }
+#suggestions li[aria-selected="true"] .sub, #suggestions li:hover .sub { color: #e8d4a8; }
+
+.btn {
+  font-family: var(--font-label);
+  font-weight: 700;
+  font-size: 1rem;
+  padding: 10px 22px;
+  color: #f6e8c4;
+  background: var(--blood);
+  border: 2px solid var(--ink);
+  border-radius: var(--radius);
+  cursor: pointer;
+  box-shadow: 2px 2px 0 rgba(43,26,16,0.5);
+}
+.btn:hover:not(:disabled) { background: var(--blood-dark); }
+.btn:active:not(:disabled) { transform: translate(1px, 1px); box-shadow: 1px 1px 0 rgba(43,26,16,0.5); }
+.btn:disabled { opacity: 0.5; cursor: not-allowed; }
+.btn:focus-visible { outline: 3px solid rgba(122,31,31,0.5); outline-offset: 2px; }
+.btn.secondary { background: var(--parchment-light); color: var(--ink); }
+.btn.secondary:hover:not(:disabled) { background: #f1e2bd; }
+
+.message { min-height: 1.6em; margin: 10px 0 0; text-align: center; font-weight: 500; color: var(--wrong); }
+
+/* ===== Game: guess grid ===== */
+.hint-area {
+  font-family: var(--font-body);
+  margin-top: 14px;
+}
+
+.hint-scroll { overflow-x: auto; padding-bottom: 6px; }
+
+.hint-row {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr 0.8fr 1.3fr 1.3fr 0.9fr;
+  gap: 6px;
+  min-width: 640px;
+  margin-bottom: 6px;
+}
+
+.hint-head h2 {
+  margin: 0;
+  padding: 6px 4px;
+  font-size: 1rem;
+  text-align: center;
+  border-bottom: 2px solid var(--ink);
+}
+
+.tile {
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  min-height: 64px; padding: 6px 8px;
+  text-align: center; font-weight: 700; line-height: 1.2;
+  color: #fff;
+  border: 2px solid var(--ink);
+  border-radius: 8px;
+  animation: flip 0.5s backwards;
+  animation-delay: calc(var(--i, 0) * 0.18s);
+}
+.tile.correct { background: var(--correct); }
+.tile.close   { background: var(--close); color: var(--ink); }
+.tile.wrong   { background: var(--wrong); }
+.tile.name    { background: var(--parchment-light); color: var(--ink); font-family: var(--font-label); font-size: 0.95rem; }
+.tile .arrow  { font-size: 1.4rem; line-height: 1; }
+.tile .small  { font-size: 0.8rem; font-weight: 500; opacity: 0.95; }
+
+.legend {
+  display: flex; flex-wrap: wrap; justify-content: center; gap: 8px 22px;
+  list-style: none; margin: 14px 0 0; padding: 0; font-size: 0.95rem;
+}
+.legend-block { justify-content: flex-start; margin: 0 0 6px; }
+.swatch { display: inline-block; width: 16px; height: 16px; vertical-align: -2px; margin-right: 6px; border: 2px solid var(--ink); border-radius: 4px; }
+.swatch.correct { background: var(--correct); }
+.swatch.close   { background: var(--close); }
+.swatch.wrong   { background: var(--wrong); }
+
+/* ===== Game: result ===== */
+.result {
+  margin: 28px auto 0; max-width: 560px; text-align: center;
+  background: var(--card); border: 2px solid var(--ink); border-radius: var(--radius);
+  padding: 20px 24px; box-shadow: 3px 3px 0 rgba(43,26,16,0.35);
+}
+.result h2 { font-family: var(--font-title); font-weight: 400; font-size: 2rem; margin-bottom: 0.2em; }
+.result-actions { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-top: 12px; }
+
+/* ===== Animations ===== */
+@keyframes flip { from { transform: rotateX(90deg); opacity: 0; } to { transform: rotateX(0); opacity: 1; } }
+@keyframes shake { 0%,100% { transform: translateX(0); } 25% { transform: translateX(-6px); } 75% { transform: translateX(6px); } }
+@media (prefers-reduced-motion: reduce) { .tile, #guess-input.shake { animation: none; } .portrait img { transition: none; } }
+
+/* ===== Small screens ===== */
+@media (max-width: 560px) {
+  body { font-size: 1.05rem; }
+  .member { flex-direction: column; align-items: center; text-align: center; }
+  #guess-form { flex-direction: column; }
+  .portrait { width: 200px; height: 200px; }
+  .portrait-side { align-items: center; text-align: center; }
 }

@@ -3,24 +3,80 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet"href="styles.css">
-    <script src="script.js"defer> </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alegreya:wght@400;500;700&family=Cinzel:wght@500;700&family=Metal+Mania&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
     <title>How To Play</title>
 </head>
 <body>
-    <header>
-        <img src="header.jpg" alt = "logo">
-        <h1> How To Play </h1>
-        <nav>
+    <header class="site-header">
+        <div class="brand">
+            <svg class="logo" viewBox="0 0 64 64" role="img" aria-label="Dungeons and Dragle d20 logo"><polygon points="32,3 58,18 58,46 32,61 6,46 6,18" fill="#7a1f1f" stroke="#2b1a10" stroke-width="3" stroke-linejoin="round"/><polygon points="32,3 58,18 32,24 6,18" fill="#a32a2a" stroke="#2b1a10" stroke-width="2" stroke-linejoin="round"/><polygon points="32,24 58,46 6,46" fill="#8f2424" stroke="#2b1a10" stroke-width="2" stroke-linejoin="round"/><text x="32" y="43" text-anchor="middle" font-family="Metal Mania, serif" font-size="17" fill="#f3e3b5">20</text></svg>
+            <h1>How To Play</h1>
+        </div>
+        <nav class="site-nav" aria-label="Main">
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="about_us.html">About Us</a></li>
-                <li><a href="how_to_play.html">How To Play</a></li>
+                <li><a href="how_to_play.html" aria-current="page">How To Play</a></li>
             </ul>
         </nav>
     </header>
-    <p>
-        lorem ipsum dolor sit amet consectetur adipiscing elit voluptatum optio eos reprehenderit fugiat voluptas tempore in iusto corrupti libero adipiscing pariatur quod culpa esse cupidatat proident similique cum at voluptas dolorem maxime dolore excepteur ex dolor magna similique ullamco eos cillum pariatur ipsum voluptate tempore facere quas qui ipsum optio
-    </p>
+    <main class="page-content">
+        <section class="card">
+            <h2>The Goal</h2>
+            <p>A mystery monster from the D&amp;D 5.2.1 System Reference Document is hiding in the dungeon. Identify it in <strong>8 guesses or fewer</strong>. A new monster is chosen each day, and you can start a random one any time with the <em>Random monster</em> button.</p>
+        </section>
+
+        <section class="card">
+            <h2>Making a Guess</h2>
+            <ol>
+                <li>Start typing a monster's name. Suggestions appear as you type; use the mouse or the arrow keys and <kbd>Enter</kbd> to pick one.</li>
+                <li>Press <strong>Guess</strong>. Only monsters from the list are accepted, and you can't repeat a guess.</li>
+                <li>Your guess is compared with the mystery monster across five clues.</li>
+                <li>Use the clues to narrow it down. The portrait at the top also becomes clearer with every guess.</li>
+            </ol>
+        </section>
+
+        <section class="card">
+            <h2>Reading the Clues</h2>
+            <p>Each tile is colored by how close you are:</p>
+            <ul class="legend legend-block">
+                <li><span class="swatch correct"></span> <strong>Green</strong>: exact match</li>
+                <li><span class="swatch close"></span> <strong>Gold</strong>: partly right</li>
+                <li><span class="swatch wrong"></span> <strong>Red</strong>: wrong</li>
+            </ul>
+            <dl class="clues">
+                <dt>Type</dt>
+                <dd>The creature type (Beast, Dragon, Undead, Fiend...). Green if it's the same, red if not.</dd>
+                <dt>CR</dt>
+                <dd>Challenge Rating, a measure of how dangerous the monster is. An arrow tells you whether the answer's CR is higher (&uarr;) or lower (&darr;) than your guess. Fractions count: 1/8 &lt; 1/4 &lt; 1/2 &lt; 1.</dd>
+                <dt>Habitat</dt>
+                <dd>Where the monster lives. Some monsters live in several habitats. Green if all of them match, gold if you share at least one, red if none.</dd>
+                <dt>Alignment</dt>
+                <dd>Moral outlook, from Lawful Good to Chaotic Evil, or Unaligned for mindless creatures and animals. Green is exact; gold means you share either the law/chaos axis or the good/evil axis; red means neither.</dd>
+                <dt>HP AVG</dt>
+                <dd>Average hit points. An arrow shows whether the answer has more (&uarr;) or fewer (&darr;) HP than your guess.</dd>
+            </dl>
+        </section>
+
+        <section class="card">
+            <h2>Example</h2>
+            <p>You guess <strong>Wolf</strong> and get: Type <span class="pill correct">Beast</span>, CR <span class="pill wrong">1/4 &uarr;</span>, Habitat <span class="pill close">Forest</span>, Alignment <span class="pill correct">Unaligned</span>, HP <span class="pill wrong">11 &uarr;</span>. The monster is a beast with no alignment that is tougher than a wolf, so perhaps a <em>Tiger</em> or a <em>Brown Bear</em> is next.</p>
+        </section>
+
+        <section class="card">
+            <h2>Tips</h2>
+            <ul>
+                <li>Open with a monster that has a common type and middling stats to learn as much as possible.</li>
+                <li>There are many dragons, and each color shares a habitat and alignment with its own kind. A single dragon guess can tell you a lot about the rest.</li>
+                <li>Colors and arrows don't stack across rows for you: scan the whole board each time and combine the clues yourself.</li>
+            </ul>
+        </section>
+    </main>
+    <footer class="site-footer">
+        <p>Monster data from the <a href="https://www.dndbeyond.com/srd" target="_blank" rel="noopener">D&amp;D 5.2.1 SRD</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC-BY 4.0</a>. Dungeons &amp; Dragons is a trademark of Wizards of the Coast; this fan project is not affiliated with them.</p>
+    </footer>
 </body>
 </html>

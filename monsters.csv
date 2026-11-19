@@ -1,0 +1,323 @@
+name,size,type,challenge_rating,cr_value,habitat,alignment,hit_points,armor_class,image,image_credit,attribution
+Aboleth,Large,Aberration,10,10.0,Underdark,Lawful Evil,135,17,images/aboleth.jpg,,SRD 5.2.1 / CC-BY 4.0
+Acolyte,Medium,Humanoid,1/4,0.25,Urban,Neutral,9,10,images/acolyte.jpg,,SRD 5.2.1 / CC-BY 4.0
+Adult Black Dragon,Huge,Dragon,14,14.0,Swamp,Chaotic Evil,195,19,images/adult-black-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Adult Blue Dragon,Huge,Dragon,16,16.0,Desert,Lawful Evil,225,19,images/adult-blue-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Adult Brass Dragon,Huge,Dragon,13,13.0,Desert,Chaotic Good,172,18,images/adult-brass-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Adult Bronze Dragon,Huge,Dragon,15,15.0,Coastal,Lawful Good,212,19,images/adult-bronze-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Adult Copper Dragon,Huge,Dragon,14,14.0,Hill,Chaotic Good,184,18,images/adult-copper-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Adult Gold Dragon,Huge,Dragon,17,17.0,Grassland,Lawful Good,256,19,images/adult-gold-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Adult Green Dragon,Huge,Dragon,15,15.0,Forest,Lawful Evil,207,19,images/adult-green-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Adult Red Dragon,Huge,Dragon,17,17.0,Mountain,Chaotic Evil,256,19,images/adult-red-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Adult Silver Dragon,Huge,Dragon,16,16.0,Mountain,Lawful Good,243,19,images/adult-silver-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Adult White Dragon,Huge,Dragon,13,13.0,Arctic,Chaotic Evil,200,18,images/adult-white-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Air Elemental,Large,Elemental,5,5.0,Planar,Neutral,90,15,images/air-elemental.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ancient Black Dragon,Gargantuan,Dragon,21,21.0,Swamp,Chaotic Evil,367,22,images/ancient-black-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ancient Blue Dragon,Gargantuan,Dragon,23,23.0,Desert,Lawful Evil,481,22,images/ancient-blue-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ancient Brass Dragon,Gargantuan,Dragon,20,20.0,Desert,Chaotic Good,297,20,images/ancient-brass-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ancient Bronze Dragon,Gargantuan,Dragon,22,22.0,Coastal,Lawful Good,444,22,images/ancient-bronze-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ancient Copper Dragon,Gargantuan,Dragon,21,21.0,Hill,Chaotic Good,350,21,images/ancient-copper-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ancient Gold Dragon,Gargantuan,Dragon,24,24.0,Grassland,Lawful Good,546,22,images/ancient-gold-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ancient Green Dragon,Gargantuan,Dragon,22,22.0,Forest,Lawful Evil,385,21,images/ancient-green-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ancient Red Dragon,Gargantuan,Dragon,24,24.0,Mountain,Chaotic Evil,546,22,images/ancient-red-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ancient Silver Dragon,Gargantuan,Dragon,23,23.0,Mountain,Lawful Good,487,22,images/ancient-silver-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ancient White Dragon,Gargantuan,Dragon,20,20.0,Arctic,Chaotic Evil,333,20,images/ancient-white-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Androsphinx,Large,Monstrosity,17,17.0,Desert,Lawful Neutral,199,17,images/androsphinx.jpg,,SRD 5.2.1 / CC-BY 4.0
+Animated Armor,Medium,Construct,1,1.0,Urban,Unaligned,33,18,images/animated-armor.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ankheg,Large,Monstrosity,2,2.0,Grassland|Hill,Unaligned,39,14,images/ankheg.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ape,Medium,Beast,1/2,0.5,Mountain|Forest,Unaligned,19,12,images/ape.jpg,,SRD 5.2.1 / CC-BY 4.0
+Archmage,Medium,Humanoid,12,12.0,Urban,Neutral,99,12,images/archmage.jpg,,SRD 5.2.1 / CC-BY 4.0
+Assassin,Medium,Humanoid,8,8.0,Urban,Neutral Evil,78,15,images/assassin.jpg,,SRD 5.2.1 / CC-BY 4.0
+Awakened Shrub,Small,Plant,0,0.0,Forest,Unaligned,10,9,images/awakened-shrub.jpg,,SRD 5.2.1 / CC-BY 4.0
+Awakened Tree,Huge,Plant,2,2.0,Forest,Unaligned,59,13,images/awakened-tree.jpg,,SRD 5.2.1 / CC-BY 4.0
+Axe Beak,Large,Beast,1/4,0.25,Grassland,Unaligned,19,11,images/axe-beak.jpg,,SRD 5.2.1 / CC-BY 4.0
+Azer,Medium,Elemental,2,2.0,Planar,Lawful Neutral,39,17,images/azer.jpg,,SRD 5.2.1 / CC-BY 4.0
+Baboon,Small,Beast,0,0.0,Forest,Unaligned,3,12,images/baboon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Badger,Tiny,Beast,0,0.0,Forest,Unaligned,3,10,images/badger.jpg,,SRD 5.2.1 / CC-BY 4.0
+Balor,Huge,Fiend,19,19.0,Planar,Chaotic Evil,262,19,images/balor.jpg,,SRD 5.2.1 / CC-BY 4.0
+Bandit,Medium,Humanoid,1/8,0.125,Urban,Neutral,11,12,images/bandit.jpg,,SRD 5.2.1 / CC-BY 4.0
+Bandit Captain,Medium,Humanoid,2,2.0,Urban,Neutral,65,15,images/bandit-captain.jpg,,SRD 5.2.1 / CC-BY 4.0
+Barbed Devil,Medium,Fiend,5,5.0,Planar,Lawful Evil,110,15,images/barbed-devil.jpg,,SRD 5.2.1 / CC-BY 4.0
+Basilisk,Medium,Monstrosity,3,3.0,Hill,Unaligned,52,12,images/basilisk.jpg,,SRD 5.2.1 / CC-BY 4.0
+Bat,Tiny,Beast,0,0.0,Urban|Underdark,Unaligned,1,12,images/bat.jpg,,SRD 5.2.1 / CC-BY 4.0
+Bearded Devil,Medium,Fiend,3,3.0,Planar,Lawful Evil,52,13,images/bearded-devil.jpg,,SRD 5.2.1 / CC-BY 4.0
+Behir,Huge,Monstrosity,11,11.0,Underdark|Mountain,Neutral Evil,168,17,images/behir.jpg,,SRD 5.2.1 / CC-BY 4.0
+Berserker,Medium,Humanoid,2,2.0,Urban,Neutral,67,13,images/berserker.jpg,,SRD 5.2.1 / CC-BY 4.0
+Black Bear,Medium,Beast,1/2,0.5,Forest,Unaligned,19,11,images/black-bear.jpg,,SRD 5.2.1 / CC-BY 4.0
+Black Dragon Wyrmling,Medium,Dragon,2,2.0,Swamp,Chaotic Evil,33,17,images/black-dragon-wyrmling.jpg,,SRD 5.2.1 / CC-BY 4.0
+Black Pudding,Large,Ooze,4,4.0,Swamp,Unaligned,85,7,images/black-pudding.jpg,,SRD 5.2.1 / CC-BY 4.0
+Blink Dog,Medium,Fey,1/4,0.25,Forest,Lawful Good,22,13,images/blink-dog.jpg,,SRD 5.2.1 / CC-BY 4.0
+Blood Hawk,Small,Beast,1/8,0.125,Mountain,Unaligned,7,12,images/blood-hawk.jpg,,SRD 5.2.1 / CC-BY 4.0
+Blue Dragon Wyrmling,Medium,Dragon,3,3.0,Desert,Lawful Evil,52,17,images/blue-dragon-wyrmling.jpg,,SRD 5.2.1 / CC-BY 4.0
+Boar,Medium,Beast,1/4,0.25,Forest,Unaligned,11,11,images/boar.jpg,,SRD 5.2.1 / CC-BY 4.0
+Bone Devil,Large,Fiend,9,9.0,Planar,Lawful Evil,142,19,images/bone-devil.jpg,,SRD 5.2.1 / CC-BY 4.0
+Brass Dragon Wyrmling,Medium,Dragon,1,1.0,Desert,Chaotic Good,16,16,images/brass-dragon-wyrmling.jpg,,SRD 5.2.1 / CC-BY 4.0
+Bronze Dragon Wyrmling,Medium,Dragon,2,2.0,Coastal,Lawful Good,32,17,images/bronze-dragon-wyrmling.jpg,,SRD 5.2.1 / CC-BY 4.0
+Brown Bear,Large,Beast,1,1.0,Forest,Unaligned,34,11,images/brown-bear.jpg,,SRD 5.2.1 / CC-BY 4.0
+Bugbear,Medium,Humanoid,1,1.0,Hill,Chaotic Evil,27,16,images/bugbear.jpg,,SRD 5.2.1 / CC-BY 4.0
+Bulette,Large,Monstrosity,5,5.0,Grassland|Hill,Unaligned,94,17,images/bulette.jpg,,SRD 5.2.1 / CC-BY 4.0
+Camel,Large,Beast,1/8,0.125,Desert,Unaligned,15,9,images/camel.jpg,,SRD 5.2.1 / CC-BY 4.0
+Cat,Tiny,Beast,0,0.0,Urban,Unaligned,2,12,images/cat.jpg,,SRD 5.2.1 / CC-BY 4.0
+Centaur,Large,Monstrosity,2,2.0,Forest,Neutral Good,45,12,images/centaur.jpg,,SRD 5.2.1 / CC-BY 4.0
+Chain Devil,Medium,Fiend,11,11.0,Planar,Lawful Evil,85,16,images/chain-devil.jpg,,SRD 5.2.1 / CC-BY 4.0
+Chimera,Large,Monstrosity,6,6.0,Mountain,Chaotic Evil,114,14,images/chimera.jpg,,SRD 5.2.1 / CC-BY 4.0
+Chuul,Large,Aberration,4,4.0,Underdark,Chaotic Evil,93,16,images/chuul.jpg,,SRD 5.2.1 / CC-BY 4.0
+Clay Golem,Large,Construct,9,9.0,Urban,Unaligned,133,14,images/clay-golem.jpg,,SRD 5.2.1 / CC-BY 4.0
+Cloaker,Large,Aberration,8,8.0,Underdark,Chaotic Neutral,78,14,images/cloaker.jpg,,SRD 5.2.1 / CC-BY 4.0
+Cloud Giant,Huge,Giant,9,9.0,Mountain,Neutral,200,14,images/cloud-giant.jpg,,SRD 5.2.1 / CC-BY 4.0
+Cockatrice,Small,Monstrosity,1/2,0.5,Desert|Planar,Unaligned,27,11,images/cockatrice.jpg,,SRD 5.2.1 / CC-BY 4.0
+Commoner,Medium,Humanoid,0,0.0,Urban,Neutral,4,10,images/commoner.jpg,,SRD 5.2.1 / CC-BY 4.0
+Constrictor Snake,Large,Beast,1/4,0.25,Swamp,Unaligned,13,12,images/constrictor-snake.jpg,,SRD 5.2.1 / CC-BY 4.0
+Copper Dragon Wyrmling,Medium,Dragon,1,1.0,Hill,Chaotic Good,22,16,images/copper-dragon-wyrmling.jpg,,SRD 5.2.1 / CC-BY 4.0
+Couatl,Medium,Celestial,4,4.0,Planar,Lawful Good,97,19,images/couatl.jpg,,SRD 5.2.1 / CC-BY 4.0
+Crab,Tiny,Beast,0,0.0,Coastal|Underwater,Unaligned,2,11,images/crab.jpg,,SRD 5.2.1 / CC-BY 4.0
+Crocodile,Large,Beast,1/2,0.5,Coastal|Swamp,Unaligned,19,12,images/crocodile.jpg,,SRD 5.2.1 / CC-BY 4.0
+Cult Fanatic,Medium,Humanoid,2,2.0,Urban,Neutral Evil,22,13,images/cult-fanatic.jpg,,SRD 5.2.1 / CC-BY 4.0
+Cultist,Medium,Humanoid,1/8,0.125,Urban,Neutral Evil,9,12,images/cultist.jpg,,SRD 5.2.1 / CC-BY 4.0
+Darkmantle,Small,Monstrosity,1/2,0.5,Underdark,Unaligned,22,11,images/darkmantle.jpg,,SRD 5.2.1 / CC-BY 4.0
+Death Dog,Medium,Monstrosity,1,1.0,Desert|Grassland,Neutral Evil,39,12,images/death-dog.jpg,,SRD 5.2.1 / CC-BY 4.0
+Deep Gnome (Svirfneblin),Small,Humanoid,1/2,0.5,Underdark,Neutral Good,16,15,images/deep-gnome-svirfneblin.jpg,,SRD 5.2.1 / CC-BY 4.0
+Deer,Medium,Beast,0,0.0,Forest|Grassland,Unaligned,4,13,images/deer.jpg,,SRD 5.2.1 / CC-BY 4.0
+Deva,Medium,Celestial,10,10.0,Planar,Lawful Good,136,17,images/deva.jpg,,SRD 5.2.1 / CC-BY 4.0
+Dire Wolf,Large,Beast,1,1.0,Forest,Unaligned,37,14,images/dire-wolf.jpg,,SRD 5.2.1 / CC-BY 4.0
+Djinni,Large,Elemental,11,11.0,Planar,Neutral Good,161,17,images/djinni.jpg,,SRD 5.2.1 / CC-BY 4.0
+Doppelganger,Medium,Monstrosity,3,3.0,Urban,Neutral,52,14,images/doppelganger.jpg,,SRD 5.2.1 / CC-BY 4.0
+Draft Horse,Large,Beast,1/4,0.25,Grassland,Unaligned,19,10,images/draft-horse.jpg,,SRD 5.2.1 / CC-BY 4.0
+Dragon Turtle,Gargantuan,Dragon,17,17.0,Coastal|Underwater,Neutral,341,20,images/dragon-turtle.jpg,,SRD 5.2.1 / CC-BY 4.0
+Dretch,Small,Fiend,1/4,0.25,Planar,Chaotic Evil,18,11,images/dretch.jpg,,SRD 5.2.1 / CC-BY 4.0
+Drider,Large,Monstrosity,6,6.0,Underdark,Chaotic Evil,123,19,images/drider.jpg,,SRD 5.2.1 / CC-BY 4.0
+Drow,Medium,Humanoid,1/4,0.25,Underdark,Neutral Evil,13,15,images/drow.jpg,,SRD 5.2.1 / CC-BY 4.0
+Druid,Medium,Humanoid,2,2.0,Forest,Neutral,27,11,images/druid.jpg,,SRD 5.2.1 / CC-BY 4.0
+Dryad,Medium,Fey,1,1.0,Forest,Neutral,22,11,images/dryad.jpg,,SRD 5.2.1 / CC-BY 4.0
+Duergar,Medium,Humanoid,1,1.0,Underdark,Lawful Evil,26,16,images/duergar.jpg,,SRD 5.2.1 / CC-BY 4.0
+Dust Mephit,Small,Elemental,1/2,0.5,Planar,Neutral Evil,17,12,images/dust-mephit.jpg,,SRD 5.2.1 / CC-BY 4.0
+Eagle,Small,Beast,0,0.0,Forest,Unaligned,3,12,images/eagle.jpg,,SRD 5.2.1 / CC-BY 4.0
+Earth Elemental,Large,Elemental,5,5.0,Planar,Neutral,126,17,images/earth-elemental.jpg,,SRD 5.2.1 / CC-BY 4.0
+Efreeti,Large,Elemental,11,11.0,Planar,Lawful Evil,200,17,images/efreeti.jpg,,SRD 5.2.1 / CC-BY 4.0
+Elephant,Huge,Beast,4,4.0,Grassland,Unaligned,76,12,images/elephant.jpg,,SRD 5.2.1 / CC-BY 4.0
+Elk,Large,Beast,1/4,0.25,Forest|Grassland,Unaligned,13,10,images/elk.jpg,,SRD 5.2.1 / CC-BY 4.0
+Erinyes,Medium,Fiend,12,12.0,Planar,Lawful Evil,153,18,images/erinyes.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ettercap,Medium,Monstrosity,2,2.0,Forest,Neutral Evil,44,13,images/ettercap.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ettin,Large,Giant,4,4.0,Hill,Chaotic Evil,85,12,images/ettin.jpg,,SRD 5.2.1 / CC-BY 4.0
+Fire Elemental,Large,Elemental,5,5.0,Planar,Neutral,102,13,images/fire-elemental.jpg,,SRD 5.2.1 / CC-BY 4.0
+Fire Giant,Huge,Giant,9,9.0,Mountain|Hill,Lawful Evil,162,18,images/fire-giant.jpg,,SRD 5.2.1 / CC-BY 4.0
+Flesh Golem,Medium,Construct,5,5.0,Urban,Unaligned,93,9,images/flesh-golem.jpg,,SRD 5.2.1 / CC-BY 4.0
+Flying Snake,Tiny,Beast,1/8,0.125,Swamp,Unaligned,5,14,images/flying-snake.jpg,,SRD 5.2.1 / CC-BY 4.0
+Flying Sword,Small,Construct,1/4,0.25,Urban,Unaligned,17,17,images/flying-sword.jpg,,SRD 5.2.1 / CC-BY 4.0
+Frog,Tiny,Beast,0,0.0,Swamp,Unaligned,1,11,images/frog.jpg,,SRD 5.2.1 / CC-BY 4.0
+Frost Giant,Huge,Giant,8,8.0,Arctic,Neutral Evil,138,15,images/frost-giant.jpg,,SRD 5.2.1 / CC-BY 4.0
+Gargoyle,Medium,Elemental,2,2.0,Urban,Chaotic Evil,52,15,images/gargoyle.jpg,,SRD 5.2.1 / CC-BY 4.0
+Gelatinous Cube,Large,Ooze,2,2.0,Underdark,Unaligned,84,6,images/gelatinous-cube.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ghast,Medium,Undead,2,2.0,Urban,Chaotic Evil,36,13,images/ghast.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ghost,Medium,Undead,4,4.0,Urban,Neutral Evil,45,11,images/ghost.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ghoul,Medium,Undead,1,1.0,Urban,Chaotic Evil,22,12,images/ghoul.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Ape,Huge,Beast,7,7.0,Forest,Unaligned,157,12,images/giant-ape.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Badger,Medium,Beast,1/4,0.25,Forest,Unaligned,13,10,images/giant-badger.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Bat,Large,Beast,1/4,0.25,Urban|Underdark,Unaligned,22,13,images/giant-bat.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Boar,Large,Beast,2,2.0,Forest,Unaligned,42,12,images/giant-boar.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Centipede,Small,Beast,1/4,0.25,Urban|Underdark,Unaligned,4,13,images/giant-centipede.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Constrictor Snake,Huge,Beast,2,2.0,Swamp,Unaligned,60,12,images/giant-constrictor-snake.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Crab,Medium,Beast,1/8,0.125,Coastal,Unaligned,13,15,images/giant-crab.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Crocodile,Huge,Beast,5,5.0,Coastal|Swamp,Unaligned,85,14,images/giant-crocodile.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Eagle,Large,Beast,1,1.0,Forest,Unaligned,26,13,images/giant-eagle.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Elk,Huge,Beast,2,2.0,Forest|Grassland,Unaligned,42,15,images/giant-elk.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Fire Beetle,Small,Beast,0,0.0,Forest,Unaligned,4,13,images/giant-fire-beetle.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Frog,Medium,Beast,1/4,0.25,Swamp,Unaligned,18,11,images/giant-frog.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Goat,Large,Beast,1/2,0.5,Mountain|Underdark,Unaligned,19,11,images/giant-goat.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Hyena,Large,Beast,1,1.0,Swamp|Desert,Unaligned,45,12,images/giant-hyena.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Lizard,Large,Beast,1/4,0.25,Grassland,Unaligned,19,12,images/giant-lizard.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Octopus,Large,Beast,1,1.0,Coastal|Underwater,Unaligned,52,11,images/giant-octopus.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Owl,Large,Beast,1/4,0.25,Forest,Unaligned,19,12,images/giant-owl.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Poisonous Snake,Medium,Beast,1/4,0.25,Swamp,Unaligned,11,14,images/giant-poisonous-snake.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Rat,Small,Beast,1/8,0.125,Urban,Unaligned,7,12,images/giant-rat.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Rat (Diseased),Small,Beast,1/8,0.125,Urban,Unaligned,7,12,images/giant-rat-diseased.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Scorpion,Large,Beast,3,3.0,Desert,Unaligned,52,15,images/giant-scorpion.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Sea Horse,Large,Beast,1/2,0.5,Coastal|Underwater,Unaligned,16,13,images/giant-sea-horse.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Shark,Huge,Beast,5,5.0,Underwater,Unaligned,126,13,images/giant-shark.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Spider,Large,Beast,1,1.0,Forest,Unaligned,26,14,images/giant-spider.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Toad,Large,Beast,1,1.0,Swamp,Unaligned,39,11,images/giant-toad.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Vulture,Large,Beast,1,1.0,Mountain,Unaligned,22,10,images/giant-vulture.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Wasp,Medium,Beast,1/2,0.5,Forest,Unaligned,13,12,images/giant-wasp.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Weasel,Medium,Beast,1/8,0.125,Forest,Unaligned,9,13,images/giant-weasel.jpg,,SRD 5.2.1 / CC-BY 4.0
+Giant Wolf Spider,Medium,Beast,1/4,0.25,Forest,Unaligned,11,13,images/giant-wolf-spider.jpg,,SRD 5.2.1 / CC-BY 4.0
+Gibbering Mouther,Medium,Aberration,2,2.0,Underdark,Neutral,67,9,images/gibbering-mouther.jpg,,SRD 5.2.1 / CC-BY 4.0
+Glabrezu,Large,Fiend,9,9.0,Planar,Chaotic Evil,157,17,images/glabrezu.jpg,,SRD 5.2.1 / CC-BY 4.0
+Gladiator,Medium,Humanoid,5,5.0,Urban,Neutral,112,16,images/gladiator.jpg,,SRD 5.2.1 / CC-BY 4.0
+Gnoll,Medium,Humanoid,1/2,0.5,Hill,Chaotic Evil,22,15,images/gnoll.jpg,,SRD 5.2.1 / CC-BY 4.0
+Goat,Medium,Beast,0,0.0,Mountain|Underdark,Unaligned,4,10,images/goat.jpg,,SRD 5.2.1 / CC-BY 4.0
+Goblin,Small,Humanoid,1/4,0.25,Hill,Neutral Evil,7,15,images/goblin.jpg,,SRD 5.2.1 / CC-BY 4.0
+Gold Dragon Wyrmling,Medium,Dragon,3,3.0,Grassland,Lawful Good,60,17,images/gold-dragon-wyrmling.jpg,,SRD 5.2.1 / CC-BY 4.0
+Gorgon,Large,Monstrosity,5,5.0,Mountain,Unaligned,114,19,images/gorgon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Gray Ooze,Medium,Ooze,1/2,0.5,Underdark,Unaligned,22,8,images/gray-ooze.jpg,,SRD 5.2.1 / CC-BY 4.0
+Green Dragon Wyrmling,Medium,Dragon,2,2.0,Forest,Lawful Evil,38,17,images/green-dragon-wyrmling.jpg,,SRD 5.2.1 / CC-BY 4.0
+Green Hag,Medium,Fey,3,3.0,Swamp|Forest,Neutral Evil,82,17,images/green-hag.jpg,,SRD 5.2.1 / CC-BY 4.0
+Grick,Medium,Monstrosity,2,2.0,Underdark,Unaligned,27,14,images/grick.jpg,,SRD 5.2.1 / CC-BY 4.0
+Griffon,Large,Monstrosity,2,2.0,Mountain,Unaligned,59,12,images/griffon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Grimlock,Medium,Humanoid,1/4,0.25,Underdark,Neutral Evil,11,11,images/grimlock.jpg,,SRD 5.2.1 / CC-BY 4.0
+Guard,Medium,Humanoid,1/8,0.125,Urban,Neutral,11,16,images/guard.jpg,,SRD 5.2.1 / CC-BY 4.0
+Guardian Naga,Large,Monstrosity,10,10.0,Grassland|Forest,Lawful Good,127,18,images/guardian-naga.jpg,,SRD 5.2.1 / CC-BY 4.0
+Gynosphinx,Large,Monstrosity,11,11.0,Desert,Lawful Neutral,136,17,images/gynosphinx.jpg,,SRD 5.2.1 / CC-BY 4.0
+Half-Red Dragon Veteran,Medium,Humanoid,5,5.0,Urban,Chaotic Evil,65,18,images/half-red-dragon-veteran.jpg,,SRD 5.2.1 / CC-BY 4.0
+Harpy,Medium,Monstrosity,1,1.0,Mountain,Chaotic Evil,38,11,images/harpy.jpg,,SRD 5.2.1 / CC-BY 4.0
+Hawk,Tiny,Beast,0,0.0,Forest,Unaligned,1,13,images/hawk.jpg,,SRD 5.2.1 / CC-BY 4.0
+Hell Hound,Medium,Fiend,3,3.0,Planar,Lawful Evil,45,15,images/hell-hound.jpg,,SRD 5.2.1 / CC-BY 4.0
+Hezrou,Large,Fiend,8,8.0,Planar,Chaotic Evil,136,16,images/hezrou.jpg,,SRD 5.2.1 / CC-BY 4.0
+Hill Giant,Huge,Giant,5,5.0,Hill,Chaotic Evil,105,13,images/hill-giant.jpg,,SRD 5.2.1 / CC-BY 4.0
+Hippogriff,Large,Monstrosity,1,1.0,Forest|Hill,Unaligned,19,11,images/hippogriff.jpg,,SRD 5.2.1 / CC-BY 4.0
+Hobgoblin,Medium,Humanoid,1/2,0.5,Hill,Lawful Evil,11,18,images/hobgoblin.jpg,,SRD 5.2.1 / CC-BY 4.0
+Homunculus,Tiny,Construct,0,0.0,Urban,Neutral,5,13,images/homunculus.jpg,,SRD 5.2.1 / CC-BY 4.0
+Horned Devil,Large,Fiend,11,11.0,Planar,Lawful Evil,178,18,images/horned-devil.jpg,,SRD 5.2.1 / CC-BY 4.0
+Hunter Shark,Large,Beast,2,2.0,Underwater,Unaligned,45,12,images/hunter-shark.jpg,,SRD 5.2.1 / CC-BY 4.0
+Hydra,Huge,Monstrosity,8,8.0,Swamp,Unaligned,172,15,images/hydra.jpg,,SRD 5.2.1 / CC-BY 4.0
+Hyena,Medium,Beast,0,0.0,Grassland,Unaligned,5,11,images/hyena.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ice Devil,Large,Fiend,14,14.0,Planar,Lawful Evil,180,18,images/ice-devil.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ice Mephit,Small,Elemental,1/2,0.5,Arctic,Neutral Evil,21,11,images/ice-mephit.jpg,,SRD 5.2.1 / CC-BY 4.0
+Imp,Tiny,Fiend,1,1.0,Urban,Lawful Evil,10,13,images/imp.jpg,,SRD 5.2.1 / CC-BY 4.0
+Invisible Stalker,Medium,Elemental,6,6.0,Planar,Neutral,104,14,images/invisible-stalker.jpg,,SRD 5.2.1 / CC-BY 4.0
+Iron Golem,Large,Construct,16,16.0,Urban,Unaligned,210,20,images/iron-golem.jpg,,SRD 5.2.1 / CC-BY 4.0
+Jackal,Small,Beast,0,0.0,Grassland,Unaligned,3,12,images/jackal.jpg,,SRD 5.2.1 / CC-BY 4.0
+Killer Whale,Huge,Beast,3,3.0,Underwater,Unaligned,90,12,images/killer-whale.jpg,,SRD 5.2.1 / CC-BY 4.0
+Knight,Medium,Humanoid,3,3.0,Urban,Neutral,52,18,images/knight.jpg,,SRD 5.2.1 / CC-BY 4.0
+Kobold,Small,Humanoid,1/8,0.125,Urban,Lawful Evil,5,12,images/kobold.jpg,,SRD 5.2.1 / CC-BY 4.0
+Kraken,Gargantuan,Monstrosity,23,23.0,Coastal|Underwater,Chaotic Evil,472,18,images/kraken.jpg,,SRD 5.2.1 / CC-BY 4.0
+Lamia,Large,Monstrosity,4,4.0,Desert|Mountain,Chaotic Evil,97,13,images/lamia.jpg,,SRD 5.2.1 / CC-BY 4.0
+Lemure,Medium,Fiend,0,0.0,Planar,Lawful Evil,13,7,images/lemure.jpg,,SRD 5.2.1 / CC-BY 4.0
+Lich,Medium,Undead,21,21.0,Urban,Neutral Evil,135,17,images/lich.jpg,,SRD 5.2.1 / CC-BY 4.0
+Lion,Large,Beast,1,1.0,Grassland,Unaligned,26,12,images/lion.jpg,,SRD 5.2.1 / CC-BY 4.0
+Lizard,Tiny,Beast,0,0.0,Grassland,Unaligned,2,10,images/lizard.jpg,,SRD 5.2.1 / CC-BY 4.0
+Lizardfolk,Medium,Humanoid,1/2,0.5,Swamp|Underdark,Neutral,22,15,images/lizardfolk.jpg,,SRD 5.2.1 / CC-BY 4.0
+Mage,Medium,Humanoid,6,6.0,Urban,Neutral,40,12,images/mage.jpg,,SRD 5.2.1 / CC-BY 4.0
+Magma Mephit,Small,Elemental,1/2,0.5,Planar,Neutral Evil,22,11,images/magma-mephit.jpg,,SRD 5.2.1 / CC-BY 4.0
+Magmin,Small,Elemental,1/2,0.5,Planar,Chaotic Neutral,9,14,images/magmin.jpg,,SRD 5.2.1 / CC-BY 4.0
+Mammoth,Huge,Beast,6,6.0,Arctic,Unaligned,126,13,images/mammoth.jpg,,SRD 5.2.1 / CC-BY 4.0
+Manticore,Large,Monstrosity,3,3.0,Mountain,Lawful Evil,68,14,images/manticore.jpg,,SRD 5.2.1 / CC-BY 4.0
+Marilith,Large,Fiend,16,16.0,Planar,Chaotic Evil,189,18,images/marilith.jpg,,SRD 5.2.1 / CC-BY 4.0
+Mastiff,Medium,Beast,1/8,0.125,Urban,Unaligned,5,12,images/mastiff.jpg,,SRD 5.2.1 / CC-BY 4.0
+Medusa,Medium,Monstrosity,6,6.0,Desert|Mountain,Lawful Evil,127,15,images/medusa.jpg,,SRD 5.2.1 / CC-BY 4.0
+Merfolk,Medium,Humanoid,1/8,0.125,Coastal|Underwater,Neutral,11,11,images/merfolk.jpg,,SRD 5.2.1 / CC-BY 4.0
+Merrow,Large,Monstrosity,2,2.0,Coastal|Underwater,Chaotic Evil,45,13,images/merrow.jpg,,SRD 5.2.1 / CC-BY 4.0
+Mimic,Medium,Monstrosity,2,2.0,Urban,Neutral,58,12,images/mimic.jpg,,SRD 5.2.1 / CC-BY 4.0
+Minotaur,Large,Monstrosity,3,3.0,Forest|Underdark,Chaotic Evil,76,14,images/minotaur.jpg,,SRD 5.2.1 / CC-BY 4.0
+Minotaur Skeleton,Large,Undead,2,2.0,Forest|Underdark,Lawful Evil,67,12,images/minotaur-skeleton.jpg,,SRD 5.2.1 / CC-BY 4.0
+Mule,Medium,Beast,1/8,0.125,Grassland,Unaligned,11,10,images/mule.jpg,,SRD 5.2.1 / CC-BY 4.0
+Mummy,Medium,Undead,3,3.0,Desert,Lawful Evil,58,11,images/mummy.jpg,,SRD 5.2.1 / CC-BY 4.0
+Mummy Lord,Medium,Undead,15,15.0,Desert,Lawful Evil,97,17,images/mummy-lord.jpg,,SRD 5.2.1 / CC-BY 4.0
+Nalfeshnee,Large,Fiend,13,13.0,Planar,Chaotic Evil,184,18,images/nalfeshnee.jpg,,SRD 5.2.1 / CC-BY 4.0
+Night Hag,Medium,Fiend,5,5.0,Planar,Neutral Evil,112,17,images/night-hag.jpg,,SRD 5.2.1 / CC-BY 4.0
+Nightmare,Large,Fiend,3,3.0,Planar,Neutral Evil,68,13,images/nightmare.jpg,,SRD 5.2.1 / CC-BY 4.0
+Noble,Medium,Humanoid,1/8,0.125,Urban,Neutral,9,15,images/noble.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ochre Jelly,Large,Ooze,2,2.0,Underdark,Unaligned,45,8,images/ochre-jelly.jpg,,SRD 5.2.1 / CC-BY 4.0
+Octopus,Small,Beast,0,0.0,Coastal|Underwater,Unaligned,3,12,images/octopus.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ogre,Large,Giant,2,2.0,Hill,Chaotic Evil,59,11,images/ogre.jpg,,SRD 5.2.1 / CC-BY 4.0
+Ogre Zombie,Large,Undead,2,2.0,Hill|Forest,Neutral Evil,85,8,images/ogre-zombie.jpg,,SRD 5.2.1 / CC-BY 4.0
+Oni,Large,Giant,7,7.0,Mountain|Hill,Lawful Evil,110,16,images/oni.jpg,,SRD 5.2.1 / CC-BY 4.0
+Orc,Medium,Humanoid,1/2,0.5,Hill,Chaotic Evil,15,13,images/orc.jpg,,SRD 5.2.1 / CC-BY 4.0
+Otyugh,Large,Aberration,5,5.0,Underdark,Neutral,114,14,images/otyugh.jpg,,SRD 5.2.1 / CC-BY 4.0
+Owl,Tiny,Beast,0,0.0,Forest,Unaligned,1,11,images/owl.jpg,,SRD 5.2.1 / CC-BY 4.0
+Owlbear,Large,Monstrosity,3,3.0,Forest,Unaligned,59,13,images/owlbear.jpg,,SRD 5.2.1 / CC-BY 4.0
+Panther,Medium,Beast,1/4,0.25,Forest,Unaligned,13,12,images/panther.jpg,,SRD 5.2.1 / CC-BY 4.0
+Pegasus,Large,Celestial,2,2.0,Hill|Mountain,Chaotic Good,59,12,images/pegasus.jpg,,SRD 5.2.1 / CC-BY 4.0
+Phase Spider,Large,Monstrosity,3,3.0,Forest,Unaligned,32,13,images/phase-spider.jpg,,SRD 5.2.1 / CC-BY 4.0
+Pit Fiend,Large,Fiend,20,20.0,Planar,Lawful Evil,300,19,images/pit-fiend.jpg,,SRD 5.2.1 / CC-BY 4.0
+Planetar,Large,Celestial,16,16.0,Planar,Lawful Good,200,19,images/planetar.jpg,,SRD 5.2.1 / CC-BY 4.0
+Plesiosaurus,Large,Beast,2,2.0,Coastal|Underwater,Unaligned,68,13,images/plesiosaurus.jpg,,SRD 5.2.1 / CC-BY 4.0
+Poisonous Snake,Tiny,Beast,1/8,0.125,Swamp,Unaligned,2,13,images/poisonous-snake.jpg,,SRD 5.2.1 / CC-BY 4.0
+Polar Bear,Large,Beast,2,2.0,Arctic,Unaligned,42,12,images/polar-bear.jpg,,SRD 5.2.1 / CC-BY 4.0
+Pony,Medium,Beast,1/8,0.125,Grassland,Unaligned,11,10,images/pony.jpg,,SRD 5.2.1 / CC-BY 4.0
+Priest,Medium,Humanoid,2,2.0,Urban,Neutral,27,13,images/priest.jpg,,SRD 5.2.1 / CC-BY 4.0
+Pseudodragon,Tiny,Dragon,1/4,0.25,Forest,Neutral Good,7,13,images/pseudodragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Purple Worm,Gargantuan,Monstrosity,15,15.0,Underdark,Unaligned,247,18,images/purple-worm.jpg,,SRD 5.2.1 / CC-BY 4.0
+Quasit,Tiny,Fiend,1,1.0,Urban,Chaotic Evil,7,13,images/quasit.jpg,,SRD 5.2.1 / CC-BY 4.0
+Quipper,Tiny,Beast,0,0.0,Swamp,Unaligned,1,13,images/quipper.jpg,,SRD 5.2.1 / CC-BY 4.0
+Rakshasa,Medium,Fiend,13,13.0,Urban,Lawful Evil,110,16,images/rakshasa.jpg,,SRD 5.2.1 / CC-BY 4.0
+Rat,Tiny,Beast,0,0.0,Urban,Unaligned,1,10,images/rat.jpg,,SRD 5.2.1 / CC-BY 4.0
+Raven,Tiny,Beast,0,0.0,Urban|Forest,Unaligned,1,12,images/raven.jpg,,SRD 5.2.1 / CC-BY 4.0
+Red Dragon Wyrmling,Medium,Dragon,4,4.0,Mountain,Chaotic Evil,75,17,images/red-dragon-wyrmling.jpg,,SRD 5.2.1 / CC-BY 4.0
+Reef Shark,Medium,Beast,1/2,0.5,Underwater,Unaligned,22,12,images/reef-shark.jpg,,SRD 5.2.1 / CC-BY 4.0
+Remorhaz,Huge,Monstrosity,11,11.0,Arctic,Unaligned,195,17,images/remorhaz.jpg,,SRD 5.2.1 / CC-BY 4.0
+Rhinoceros,Large,Beast,2,2.0,Grassland,Unaligned,45,11,images/rhinoceros.jpg,,SRD 5.2.1 / CC-BY 4.0
+Riding Horse,Large,Beast,1/4,0.25,Grassland,Unaligned,13,10,images/riding-horse.jpg,,SRD 5.2.1 / CC-BY 4.0
+Roc,Gargantuan,Monstrosity,11,11.0,Mountain,Unaligned,248,15,images/roc.jpg,,SRD 5.2.1 / CC-BY 4.0
+Roper,Large,Monstrosity,5,5.0,Underdark,Neutral Evil,93,20,images/roper.jpg,,SRD 5.2.1 / CC-BY 4.0
+Rug of Smothering,Large,Construct,2,2.0,Urban,Unaligned,33,12,images/rug-of-smothering.jpg,,SRD 5.2.1 / CC-BY 4.0
+Rust Monster,Medium,Monstrosity,1/2,0.5,Underdark,Unaligned,27,14,images/rust-monster.jpg,,SRD 5.2.1 / CC-BY 4.0
+Saber-Toothed Tiger,Large,Beast,2,2.0,Grassland,Unaligned,52,12,images/saber-toothed-tiger.jpg,,SRD 5.2.1 / CC-BY 4.0
+Sahuagin,Medium,Humanoid,1/2,0.5,Coastal|Underwater,Lawful Evil,22,12,images/sahuagin.jpg,,SRD 5.2.1 / CC-BY 4.0
+Salamander,Large,Elemental,5,5.0,Planar,Neutral Evil,90,15,images/salamander.jpg,,SRD 5.2.1 / CC-BY 4.0
+Satyr,Medium,Fey,1/2,0.5,Forest,Chaotic Neutral,31,14,images/satyr.jpg,,SRD 5.2.1 / CC-BY 4.0
+Scorpion,Tiny,Beast,0,0.0,Desert,Unaligned,1,11,images/scorpion.jpg,,SRD 5.2.1 / CC-BY 4.0
+Scout,Medium,Humanoid,1/2,0.5,Urban,Neutral,16,13,images/scout.jpg,,SRD 5.2.1 / CC-BY 4.0
+Sea Hag,Medium,Fey,2,2.0,Coastal|Underwater,Chaotic Evil,52,14,images/sea-hag.jpg,,SRD 5.2.1 / CC-BY 4.0
+Sea Horse,Tiny,Beast,0,0.0,Coastal|Underwater,Neutral,1,11,images/sea-horse.jpg,,SRD 5.2.1 / CC-BY 4.0
+Shadow,Medium,Undead,1/2,0.5,Urban,Chaotic Evil,16,12,images/shadow.jpg,,SRD 5.2.1 / CC-BY 4.0
+Shambling Mound,Large,Plant,5,5.0,Swamp,Unaligned,136,15,images/shambling-mound.jpg,,SRD 5.2.1 / CC-BY 4.0
+Shield Guardian,Large,Construct,7,7.0,Urban,Unaligned,142,17,images/shield-guardian.jpg,,SRD 5.2.1 / CC-BY 4.0
+Shrieker,Medium,Plant,0,0.0,Underdark,Unaligned,13,5,images/shrieker.jpg,,SRD 5.2.1 / CC-BY 4.0
+Silver Dragon Wyrmling,Medium,Dragon,2,2.0,Mountain,Lawful Good,45,17,images/silver-dragon-wyrmling.jpg,,SRD 5.2.1 / CC-BY 4.0
+Skeleton,Medium,Undead,1/4,0.25,Urban,Lawful Evil,13,13,images/skeleton.jpg,,SRD 5.2.1 / CC-BY 4.0
+Solar,Large,Celestial,21,21.0,Planar,Lawful Good,243,21,images/solar.jpg,,SRD 5.2.1 / CC-BY 4.0
+Specter,Medium,Undead,1,1.0,Urban,Chaotic Evil,22,12,images/specter.jpg,,SRD 5.2.1 / CC-BY 4.0
+Spider,Tiny,Beast,0,0.0,Forest,Unaligned,1,12,images/spider.jpg,,SRD 5.2.1 / CC-BY 4.0
+Spirit Naga,Large,Monstrosity,8,8.0,Grassland|Forest,Chaotic Evil,75,15,images/spirit-naga.jpg,,SRD 5.2.1 / CC-BY 4.0
+Sprite,Tiny,Fey,1/4,0.25,Forest,Neutral,2,15,images/sprite.jpg,,SRD 5.2.1 / CC-BY 4.0
+Spy,Medium,Humanoid,1,1.0,Urban,Neutral,27,12,images/spy.jpg,,SRD 5.2.1 / CC-BY 4.0
+Steam Mephit,Small,Elemental,1/4,0.25,Planar,Neutral Evil,21,10,images/steam-mephit.jpg,,SRD 5.2.1 / CC-BY 4.0
+Stirge,Tiny,Beast,1/8,0.125,Urban|Underdark,Unaligned,2,14,images/stirge.jpg,,SRD 5.2.1 / CC-BY 4.0
+Stone Giant,Huge,Giant,7,7.0,Mountain,Neutral,126,17,images/stone-giant.jpg,,SRD 5.2.1 / CC-BY 4.0
+Stone Golem,Large,Construct,10,10.0,Urban,Unaligned,178,17,images/stone-golem.jpg,,SRD 5.2.1 / CC-BY 4.0
+Storm Giant,Huge,Giant,13,13.0,Mountain,Chaotic Good,230,16,images/storm-giant.jpg,,SRD 5.2.1 / CC-BY 4.0
+Succubus/Incubus,Medium,Fiend,4,4.0,Urban,Neutral Evil,66,15,images/succubus-incubus.jpg,,SRD 5.2.1 / CC-BY 4.0
+Swarm of Bats,Medium,Beast,1/4,0.25,Urban|Underdark,Unaligned,22,12,images/swarm-of-bats.jpg,,SRD 5.2.1 / CC-BY 4.0
+Swarm of Beetles,Medium,Beast,1/2,0.5,Forest,Unaligned,22,12,images/swarm-of-beetles.jpg,,SRD 5.2.1 / CC-BY 4.0
+Swarm of Centipedes,Medium,Beast,1/2,0.5,Forest,Unaligned,22,12,images/swarm-of-centipedes.jpg,,SRD 5.2.1 / CC-BY 4.0
+Swarm of Insects,Medium,Beast,1/2,0.5,Forest,Unaligned,22,12,images/swarm-of-insects.jpg,,SRD 5.2.1 / CC-BY 4.0
+Swarm of Poisonous Snakes,Medium,Beast,2,2.0,Swamp,Unaligned,36,14,images/swarm-of-poisonous-snakes.jpg,,SRD 5.2.1 / CC-BY 4.0
+Swarm of Quippers,Medium,Beast,1,1.0,Underwater,Unaligned,28,13,images/swarm-of-quippers.jpg,,SRD 5.2.1 / CC-BY 4.0
+Swarm of Rats,Medium,Beast,1/4,0.25,Urban,Unaligned,24,10,images/swarm-of-rats.jpg,,SRD 5.2.1 / CC-BY 4.0
+Swarm of Ravens,Medium,Beast,1/4,0.25,Urban|Forest,Unaligned,24,12,images/swarm-of-ravens.jpg,,SRD 5.2.1 / CC-BY 4.0
+Swarm of Spiders,Medium,Beast,1/2,0.5,Forest,Unaligned,22,12,images/swarm-of-spiders.jpg,,SRD 5.2.1 / CC-BY 4.0
+Swarm of Wasps,Medium,Beast,1/2,0.5,Forest,Unaligned,22,12,images/swarm-of-wasps.jpg,,SRD 5.2.1 / CC-BY 4.0
+Tarrasque,Gargantuan,Monstrosity,30,30.0,Hill|Grassland|Mountain|Forest|Desert|Arctic,Unaligned,676,25,images/tarrasque.jpg,,SRD 5.2.1 / CC-BY 4.0
+Thug,Medium,Humanoid,1/2,0.5,Urban,Neutral Evil,32,11,images/thug.jpg,,SRD 5.2.1 / CC-BY 4.0
+Tiger,Large,Beast,1,1.0,Grassland,Unaligned,37,12,images/tiger.jpg,,SRD 5.2.1 / CC-BY 4.0
+Treant,Huge,Plant,9,9.0,Forest,Chaotic Good,138,16,images/treant.jpg,,SRD 5.2.1 / CC-BY 4.0
+Tribal Warrior,Medium,Humanoid,1/8,0.125,Forest,Neutral,11,12,images/tribal-warrior.jpg,,SRD 5.2.1 / CC-BY 4.0
+Triceratops,Huge,Beast,5,5.0,Grassland,Unaligned,95,13,images/triceratops.jpg,,SRD 5.2.1 / CC-BY 4.0
+Troll,Large,Giant,5,5.0,Hill,Chaotic Evil,84,15,images/troll.jpg,,SRD 5.2.1 / CC-BY 4.0
+Tyrannosaurus Rex,Huge,Beast,8,8.0,Grassland,Unaligned,136,13,images/tyrannosaurus-rex.jpg,,SRD 5.2.1 / CC-BY 4.0
+Unicorn,Large,Celestial,5,5.0,Forest,Lawful Good,67,12,images/unicorn.jpg,,SRD 5.2.1 / CC-BY 4.0
+Vampire,Medium,Undead,13,13.0,Urban,Neutral Evil,144,16,images/vampire.jpg,,SRD 5.2.1 / CC-BY 4.0
+Vampire Spawn,Medium,Undead,5,5.0,Urban,Neutral Evil,82,15,images/vampire-spawn.jpg,,SRD 5.2.1 / CC-BY 4.0
+Veteran,Medium,Humanoid,3,3.0,Urban,Neutral,58,17,images/veteran.jpg,,SRD 5.2.1 / CC-BY 4.0
+Violet Fungus,Medium,Plant,1/4,0.25,Forest,Unaligned,18,5,images/violet-fungus.jpg,,SRD 5.2.1 / CC-BY 4.0
+Vrock,Large,Fiend,6,6.0,Planar,Chaotic Evil,104,15,images/vrock.jpg,,SRD 5.2.1 / CC-BY 4.0
+Vulture,Medium,Beast,0,0.0,Mountain,Unaligned,5,10,images/vulture.jpg,,SRD 5.2.1 / CC-BY 4.0
+Warhorse,Large,Beast,1/2,0.5,Grassland,Unaligned,19,11,images/warhorse.jpg,,SRD 5.2.1 / CC-BY 4.0
+Warhorse Skeleton,Large,Undead,1/2,0.5,Urban,Lawful Evil,22,13,images/warhorse-skeleton.jpg,,SRD 5.2.1 / CC-BY 4.0
+Water Elemental,Large,Elemental,5,5.0,Underwater,Neutral,114,14,images/water-elemental.jpg,,SRD 5.2.1 / CC-BY 4.0
+Weasel,Tiny,Beast,0,0.0,Forest,Unaligned,1,13,images/weasel.jpg,,SRD 5.2.1 / CC-BY 4.0
+Werebear,Medium,Humanoid,5,5.0,Forest,Neutral Good,135,10,images/werebear.jpg,,SRD 5.2.1 / CC-BY 4.0
+Wereboar,Medium,Humanoid,4,4.0,Forest,Neutral Evil,78,10,images/wereboar.jpg,,SRD 5.2.1 / CC-BY 4.0
+Wererat,Medium,Humanoid,2,2.0,Urban,Lawful Evil,33,12,images/wererat.jpg,,SRD 5.2.1 / CC-BY 4.0
+Weretiger,Medium,Humanoid,4,4.0,Forest,Neutral,120,12,images/weretiger.jpg,,SRD 5.2.1 / CC-BY 4.0
+Werewolf,Medium,Humanoid,3,3.0,Forest,Chaotic Evil,58,11,images/werewolf.jpg,,SRD 5.2.1 / CC-BY 4.0
+White Dragon Wyrmling,Medium,Dragon,2,2.0,Arctic,Chaotic Evil,32,16,images/white-dragon-wyrmling.jpg,,SRD 5.2.1 / CC-BY 4.0
+Wight,Medium,Undead,3,3.0,Urban,Neutral Evil,45,14,images/wight.jpg,,SRD 5.2.1 / CC-BY 4.0
+Will-o'-Wisp,Tiny,Undead,2,2.0,Planar,Chaotic Evil,22,19,images/will-o-wisp.jpg,,SRD 5.2.1 / CC-BY 4.0
+Winter Wolf,Large,Monstrosity,3,3.0,Arctic,Neutral Evil,75,13,images/winter-wolf.jpg,,SRD 5.2.1 / CC-BY 4.0
+Wolf,Medium,Beast,1/4,0.25,Forest,Unaligned,11,13,images/wolf.jpg,,SRD 5.2.1 / CC-BY 4.0
+Worg,Large,Monstrosity,1/2,0.5,Forest,Neutral Evil,26,13,images/worg.jpg,,SRD 5.2.1 / CC-BY 4.0
+Wraith,Medium,Undead,5,5.0,Urban,Neutral Evil,67,13,images/wraith.jpg,,SRD 5.2.1 / CC-BY 4.0
+Wyvern,Large,Dragon,6,6.0,Mountain,Unaligned,110,13,images/wyvern.jpg,,SRD 5.2.1 / CC-BY 4.0
+Xorn,Medium,Elemental,5,5.0,Planar|Underdark,Neutral,73,19,images/xorn.jpg,,SRD 5.2.1 / CC-BY 4.0
+Young Black Dragon,Large,Dragon,7,7.0,Swamp,Chaotic Evil,127,18,images/young-black-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Young Blue Dragon,Large,Dragon,9,9.0,Desert,Lawful Evil,152,18,images/young-blue-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Young Brass Dragon,Large,Dragon,6,6.0,Desert,Chaotic Good,110,17,images/young-brass-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Young Bronze Dragon,Large,Dragon,8,8.0,Coastal,Lawful Good,142,18,images/young-bronze-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Young Copper Dragon,Large,Dragon,7,7.0,Hill,Chaotic Good,119,17,images/young-copper-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Young Gold Dragon,Large,Dragon,10,10.0,Grassland,Lawful Good,178,18,images/young-gold-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Young Green Dragon,Large,Dragon,8,8.0,Forest,Lawful Evil,136,18,images/young-green-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Young Red Dragon,Large,Dragon,10,10.0,Mountain,Chaotic Evil,178,18,images/young-red-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Young Silver Dragon,Large,Dragon,9,9.0,Mountain,Lawful Good,168,18,images/young-silver-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Young White Dragon,Large,Dragon,6,6.0,Arctic,Chaotic Evil,133,17,images/young-white-dragon.jpg,,SRD 5.2.1 / CC-BY 4.0
+Zombie,Medium,Undead,1/4,0.25,Urban,Neutral Evil,22,8,images/zombie.jpg,,SRD 5.2.1 / CC-BY 4.0

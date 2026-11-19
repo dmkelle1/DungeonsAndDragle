@@ -3,53 +3,87 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet"href="styles.css">
-    <script src="script.js"defer> </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alegreya:wght@400;500;700&family=Cinzel:wght@500;700&family=Metal+Mania&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <script src="monsters.js" defer></script>
+    <script src="script.js" defer></script>
     <title>Dungeons and Dragle</title>
 </head>
 <body>
-    <header>
-        <img src="header.jpg" alt = "logo">
-        <h1> Dungeons and Dragle </h1>
-        <nav>
+    <header class="site-header">
+        <div class="brand">
+            <svg class="logo" viewBox="0 0 64 64" role="img" aria-label="Dungeons and Dragle d20 logo"><polygon points="32,3 58,18 58,46 32,61 6,46 6,18" fill="#7a1f1f" stroke="#2b1a10" stroke-width="3" stroke-linejoin="round"/><polygon points="32,3 58,18 32,24 6,18" fill="#a32a2a" stroke="#2b1a10" stroke-width="2" stroke-linejoin="round"/><polygon points="32,24 58,46 6,46" fill="#8f2424" stroke="#2b1a10" stroke-width="2" stroke-linejoin="round"/><text x="32" y="43" text-anchor="middle" font-family="Metal Mania, serif" font-size="17" fill="#f3e3b5">20</text></svg>
+            <h1>Dungeons and Dragle</h1>
+        </div>
+        <nav class="site-nav" aria-label="Main">
             <ul>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.html" aria-current="page">Home</a></li>
                 <li><a href="about_us.html">About Us</a></li>
                 <li><a href="how_to_play.html">How To Play</a></li>
             </ul>
         </nav>
     </header>
-    <div class="game-area">
-        <div class="monster-image">
-            
-            <img src ="placeholder.jpg" alt = "This is the monster image.">
+    <main class="game-area">
+        <p class="tagline">A wild monster appears! Guess it in 8 tries.</p>
+
+        <section class="monster-image" aria-label="Mystery monster">
+            <div class="portrait" id="portrait">
+                <img id="monster-img" alt="The mystery monster, hidden" hidden>
+                <div class="portrait-placeholder" id="portrait-placeholder" aria-hidden="true">?</div>
+            </div>
+            <div class="portrait-side">
+                <p class="guess-counter">Guess <strong id="guess-count">0</strong> of <span id="guess-max">8</span></p>
+                <p class="portrait-note" id="portrait-note">The portrait sharpens with each guess.</p>
+                <button type="button" class="btn secondary" id="random-btn">Random monster</button>
+            </div>
+        </section>
+
+        <div class="input">
+            <form id="guess-form" autocomplete="off" novalidate>
+                <label for="guess-input" class="sr-only">Monster name</label>
+                <div class="combo">
+                    <input type="text" id="guess-input" placeholder="Type a monster name..." role="combobox"
+                           aria-expanded="false" aria-controls="suggestions" aria-autocomplete="list" spellcheck="false">
+                    <ul id="suggestions" role="listbox" hidden></ul>
+                </div>
+                <button type="submit" class="btn" id="guess-btn">Guess</button>
+            </form>
         </div>
-        <div class="hint-area">
-            <div class="type-check">
-                <h2>Type</h2>
-                <img src ="placeholder.jpg" alt = "This is the Type checker.">
+        <p class="message" id="message" role="status" aria-live="polite"></p>
+
+        <section class="hint-area" aria-label="Your guesses">
+            <div class="hint-scroll">
+                <div class="hint-row hint-head" role="row">
+                    <div class="type-check"><h2>Name</h2></div>
+                    <div class="type-check"><h2>Type</h2></div>
+                    <div class="cr-check"><h2>CR</h2></div>
+                    <div class="habitat-check"><h2>Habitat</h2></div>
+                    <div class="alignment-check"><h2>Alignment</h2></div>
+                    <div class="hp-check"><h2>HP AVG</h2></div>
+                </div>
+                <div id="guess-rows"></div>
             </div>
-            <div class="cr-check">
-                <h2>CR</h2>
-                <img src ="placeholder.jpg" alt = "This is the CR checker.">
+            <ul class="legend">
+                <li><span class="swatch correct"></span> Match</li>
+                <li><span class="swatch close"></span> Partly right</li>
+                <li><span class="swatch wrong"></span> Wrong</li>
+                <li>&uarr; answer is higher &nbsp; &darr; answer is lower</li>
+            </ul>
+        </section>
+
+        <section class="result" id="result" hidden aria-live="polite">
+            <h2 id="result-title"></h2>
+            <p id="result-text"></p>
+            <div class="result-actions">
+                <button type="button" class="btn" id="share-btn">Copy result</button>
+                <button type="button" class="btn secondary" id="again-btn">Play a random monster</button>
             </div>
-            <div class="habitat-check">
-                <h2>Habitat</h2>
-                <img src ="placeholder.jpg" alt = "This is the Habitat checker.">
-            </div>
-            <div class="alignment-check">
-                <h2>Alignment</h2>
-                <img src ="placeholder.jpg" alt = "This is the Alignment checker.">
-            </div>
-            <div class="hp-check">
-                <h2>HP AVG</h2>
-                <img src ="placeholder.jpg" alt = "This is the HP checker.">
-            </div>
-        </div>
-        <input type="text">
-        <form action="/submit-page" method="POST">
-            <button type="submit">Submit Form</button>
-        </form>
-    </div>
+        </section>
+    </main>
+    <footer class="site-footer">
+        <p>Monster data from the <a href="https://www.dndbeyond.com/srd" target="_blank" rel="noopener">D&amp;D 5.2.1 SRD</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC-BY 4.0</a>. Dungeons &amp; Dragons is a trademark of Wizards of the Coast; this fan project is not affiliated with them.</p>
+    </footer>
 </body>
 </html>
